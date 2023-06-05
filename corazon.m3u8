@@ -4,14 +4,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:1000
 #EXTINF:11.177822,
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
-#EXTINF:9.042356,
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
-#EXTINF:9.376022,
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
-#EXTINF:10.143456,
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
-#EXTINF:10.143456,
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
-#EXTINF:9.409389,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3846000,AVERAGE-BANDWIDTH=3332000
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
