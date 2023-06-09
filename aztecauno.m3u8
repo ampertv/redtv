@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=934000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.640016"
+#EXT-X-MEDIA-SEQUENCE:33
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:1000
+#EXTINF:11.177822,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3846000,AVERAGE-BANDWIDTH=3332000
 http://192.99.70.160:25461/live/tropical/tropical/23.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=870304635&_cdn_timestamp=1686368883&_cdn_token=2a3edebfec0db88cd66737f0ad681c4ff84998f0
