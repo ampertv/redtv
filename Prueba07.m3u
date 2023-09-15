@@ -1,0 +1,408 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" group-title="CINE",UNIVERSAL SD
+http://190.122.186.88:8000/play/a0j2
+
+
+
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" group-title="CINE",UNIVERSAL ULTRA HD+
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/25.m3u8
+
+
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="CINE",UNIVERSAL Ultra HD 4K
+http://170.254.234.244:8000/play/a04r
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="CINE",UNIVERSAL Ultra HD 4K+
+http://191.102.106.46:15028/play/a014
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="CINE",UNIVERSAL Full HD Dual Audio
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/233.m3u8?v=http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/18.m3u8?v=https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="FX.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="CINE",FX HQ
+http://45.5.117.182:8000/play/a0gb
+
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/11/file_201389_0_FX_Logo.jpg" group-title="CINE",FX SD
+http://168.228.194.80:48001/play/a00j
+
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/1zsfm2K/FMHD.png" group-title="CINE",FX HD
+http://170.254.234.244:8000/play/a04y?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/1zsfm2K/FMHD.png" group-title="CINE",FX Ultra HD+
+http://191.102.106.46:15028/play/a00w
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/1zsfm2K/FMHD.png" group-title="CINE",FX Ultra HDA+
+http://tv.nousiptv.com:8080/live/tatiana/123456/1155789.m3u8
+
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/1zsfm2K/FMHD.png" group-title="CINE",FX Ultra HD 4K+
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/125.m3u8?v=http://181.78.24.67:8010/play/a04q
+
+#EXTINF:-1 tvg-id="FX.pr" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="CINE",FX Internacional Ultra HD+ INTERNACIONAL 
+http://168.228.194.33:48001/play/a05w/index.m3u8
+
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/1zsfm2K/FMHD.png" group-title="CINE",FX Internacional Ultra HD+ INTERNACIONAL 2
+http://live.budtvlight.com:25461/live/bud-798016/e677162434/30339.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="CINE",FX Full HD
+http://170.254.172.10:8000/play/a03y?v=http://168.228.194.33:48001/play/a05w?v=https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="SonyCine(Spanish).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE Full HD
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:0 tvg-ID="SonyMovieChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20220324215220&path-prefix=es" group-title="CINE",SONY MOVIES HD
+http://45.5.117.182:8000/play/a0fr
+
+#EXTINF:0 tvg-ID="SonyMovieChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20220324215220&path-prefix=es" group-title="CINE",SONY MOVIES FULL HD
+http://168.228.194.33:48001/play/a05y
+
+#EXTINF:0 tvg-ID="SonyMovieChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20220324215220&path-prefix=es" group-title="CINE",SONY MOVIES Ultra HD+
+http://170.254.172.10:8000/play/a040
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:0 tvg-ID="SonyMovieChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20220324215220&path-prefix=es" group-title="CINE",SONY MOVIES Ultra HD 4K
+http://190.122.186.88:8000/play/a0fr?v=https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="TNT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="CINE",TNT SD
+http://186.3.76.238:8000/play/a07l
+
+#EXTINF:-1 tvg-id="TNT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="CINE",TNT HQ
+http://170.254.172.10:8000/play/a03l
+
+
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rMQM5EriL._SY355_.png" group-title="CINE",TNT
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/166.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT Full HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rMQM5EriL._SY355_.png" group-title="CINE",TNT Ultra HD 4K
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/167.m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT Full HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rMQM5EriL._SY355_.png" group-title="CINE",TNT Ultra HD 4K+
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/168.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT Full HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rMQM5EriL._SY355_.png" group-title="CINE",TNT Full HD Dual Audio
+http://170.254.172.10:8000/play/a04l?v=http://168.228.194.33:48001/play/a08c/index.m3u8?v=http://190.61.55.186:1010/play/a01w?v=https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="CINE",TNT Series SD
+http://190.60.40.37:12500/play/a06s
+
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT Series
+https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/76.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT Series Ultra HD 4K
+http://170.254.172.10:8000/play/a085?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT Series Ultra HD 4K+
+http://191.102.106.46:15028/play/a02b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT Series Full HD Dual Audio
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/172.m3u8?v=http://168.228.194.33:48001/play/a09x?v=https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="CINE",AMC SD
+http://170.254.172.10:8000/play/a03m
+
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="CINE",AMC
+https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/82.m3u8?v=http://live.budtvlight.com:25461/live/bud-798016/e677162434/16507.m3u8
+
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC Full HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png" group-title="CINE",AMC Ultra HD 4K
+http://45.5.117.182:8000/play/a0fn?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE05.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC Full HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png" group-title="CINE",AMC Full HD Dual Audio
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/211.m3u8?v=http://168.228.194.33:48001/play/a05u?v=https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.png" group-title="CINE",STUDIO UNIVERSAL SD
+http://45.5.117.182:8000/play/a0j7
+
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.png" group-title="CINE",STUDIO UNIVERSAL
+http://168.228.194.33:48001/play/a05p
+
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.pngg" group-title="CINE",STUDIO UNIVERSAL ULTRA HD 4K
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/219.m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+
+
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.pngg" group-title="CINE",STUDIO UNIVERSAL ULTRA HD+
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30376.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL Full HD Dual Audio" tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.png" group-title="CINE",STUDIO UNIVERSAL Full HD Dual Audio
+http://tv.nousiptv.com:8080/live/tatiana/123456/4100.m3u8?v=https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE",Multipremier HQ
+
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE",Multipremier SD
+http://208.88.246.11:4481/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE",Multipremier HD
+http://208.88.246.11:4481/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE",Multipremier Ultra HD
+http://177.234.230.226:8010/play/a00h
+
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multi premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE",Multipremier Ultra HD 4K+
+http://160.20.165.246:8000/play/a00b
+
+
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png" group-title="CINE",MC SD
+
+
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png" group-title="CINE",MC HD
+
+
+
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png" group-title="CINE",MC Ultra HD
+http://177.234.230.226:8010/play/a00i
+
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png" group-title="CINE",MC Ultra HD 4K+
+http://160.20.165.246:8000/play/a00a
+
+
+#EXTINF:-1 tvg-id="CineMexicano.mx" tvg-name="CINE MEXICANO HD" tvg-logo="https://www.nicepng.com/png/detail/341-3412421_tvc-cine-mexicano-2016-logo-canal-cine-mexicano.png" group-title="CINE",CINE MEXICANO HD
+http://177.234.230.226:8010/play/a00e
+
+
+#EXTINF:-1 tvg-id="CinemaPlatino2.mx" tvg-name="CINEMA PLATINO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" group-title="CINE",CINEMA PLATINO HD
+http://177.234.230.226:8010/play/a00f
+
+
+#EXTINF:-1 tvg-id="CineMexicanoUSFeed(Spanish).us" tvg-name="Cine Mexicano" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/12/Cine-Mexicano-Cubaplay-Landing-Pages_03.png" group-title="CINE",Cine Mexicano HD
+
+
+
+#EXTINF:-1 tvg-id="CineLatinoUS.pr" tvg-name="Cine Latino" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino
+http://208.88.246.11:4481/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://cdn.mitvstatic.com/channels/683cc07f-24b5-4bb1-a1f3-2745f8877d74_m.jpg" group-title="CINE",Cine Latino
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/111.m3u8
+
+
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino HD" tvg-logo="https://cdn.mitvstatic.com/channels/683cc07f-24b5-4bb1-a1f3-2745f8877d74_m.jpg" group-title="CINE",Cine Latino HD
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/111.m3u8
+
+
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpV1AGQQWSaZ7PwaBXlNNORVuNN0eg045Re_Nks0wF6JqzVVKaBrTSS4T1JXyYEnuFN4&usqp=CAU" group-title="CINE",Cine Latino
+http://live.budtvlight.com:25461/live/bud-798016/e677162434/1467.m3u8
+
+
+#EXTINF:-1 tvg-id="CinemaDinamita(ClaroChile).co" tvg-name="CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE",PRUEBA CANAL 5 4K+ UHD+
+http://my-chplus.net:8080/player_api.php?username=b4ck9CABEfMc5JA&password=pxanQtVZRV&action=get_short_epg&stream_id=1310539|user-agent=okhttp/4.10.0
+
+
+
+
+
+#EXTINF:-1 tvg-id="CinemaDinamita(ClaroChile).co" tvg-name="CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE",CINEMA DINAMITA
+http://live.budtvlight.com:25461/bud-798016/e677162434/37740
+
+#EXTINF:-1 tvg-id="CinemaDinamita(ClaroChile).co" tvg-name="CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE",CINEMA DINAMITA
+http://live.budtvlight.com:25461/live/bud-798016/e677162434/44073.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/YbZMKd0/De-Pelicula.png" group-title="CINE",DE PELICULA SD
+http://200.229.147.76:4000/play/a0ho
+
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/YbZMKd0/De-Pelicula.png" group-title="CINE",DE PELICULA
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/9.m3u8
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película UHD" tvg-logo="https://i.ibb.co/YbZMKd0/De-Pelicula.png" group-title="CINE",De Película Ultra HD 4K
+http://ultrapremium.ch:8080/live/56998400979wspzero/060222zero/181.m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA Ultra HD+" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePelicula_logoFull-ver.png.c41cd5d635c03adce3b9f40d4c4ff343.png" group-title="CINE",DE PELICULA Ultra HD+
+http://00322.xyz:8000/live/coachprato/40437757/138187.m3u8
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA Ultra HD+" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePelicula_logoFull-ver.png.c41cd5d635c03adce3b9f40d4c4ff343.png" group-title="CINE",DE PELICULA Ultra HD 4K+
+http://00322.xyz:8000/live/coachprato/40437757/138187.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.DePelicula_logoFull-ver.png.44101bf50113b64a5aad4838f68ab63d.png" group-title="CINE",De Película Full HD Dual Audio
+http://tv.nousiptv.com:8080/live/tatiana/123456/1155786.m3u8?v=https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/02qJ0Br/De-Pelicula-Plus.png" group-title="CINE",DE PELICULA PLUS
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/10.m3u8
+
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA PLUS Ultra HD+" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="CINE",DE PELICULA PLUS Ultra HD+
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/26.m3u8
+
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA PLUS UHD" tvg-logo="https://i.ibb.co/02qJ0Br/De-Pelicula-Plus.png" group-title="CINE",DE PELICULA PLUS Ultra HD 4K
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/26.m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA PLUS UHD" tvg-logo="https://i.ibb.co/02qJ0Br/De-Pelicula-Plus.png" group-title="CINE",DE PELICULA PLUS Ultra HD 4K+
+http://tv.nousiptv.com:8080/live/tatiana/123456/1155788.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA PLUS UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA PLUS Full HD Dual Audio
+http://tv.nousiptv.com:8080/live/tatiana/123456/1155788.m3u8?v=https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="De Pelicula Clasico HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" group-title="CINE",De Pelicula Clasico
+
+
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="De Pelicula Clasico HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" group-title="CINE",De Pelicula Clasico Respaldo 1
+
+
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="De Pelicula Clasico HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" group-title="CINE",De Pelicula Clasico Respaldo 2
+
+
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="De Pelicula Clasico HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" group-title="CINE",De Pelicula Clasico HD
+
+
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="De Pelicula Clasico HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" group-title="CINE",De Pelicula Clasico HD+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/qk7qvnH/GOLDEN.png" group-title="CINE",GOLDEN Dual Audio
+http://168.228.194.80:48001/play/a00k?v=https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/qk7qvnH/GOLDEN.png" group-title="CINE",GOLDEN
+https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/202.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN Ultra HD+" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.984186640_GoldenLA(2020).png.5e685b47e53c8aac1fe62795815e576d.png" group-title="CINE",GOLDEN Ultra HD+
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/188.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/qk7qvnH/GOLDEN.png" group-title="CINE",GOLDEN Ultra HD 4K
+http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/1624.m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDEN MULTIPLEX Dual Audio" tvg-logo="https://i.ibb.co/jL0R0VQ/Golden-Multiplex2022.png" group-title="CINE",GOLDEN MULTIPLEX Dual Audio SD
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDEN MULTIPLEX -1 HORA Ultra HD+" tvg-logo="https://i.ibb.co/jL0R0VQ/Golden-Multiplex2022.png" group-title="CINE",GOLDEN MULTIPLEX HD+ Dual Audio (Sin Señal)
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDEN MULTIPLEX Dual Audio" tvg-logo="https://i.ibb.co/jL0R0VQ/Golden-Multiplex2022.png" group-title="CINE",GOLDEN MULTIPLEX HD Dual Audio Ultra HD
+
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDEN MULTIPLEX -2 HORAS Ultra HD+" tvg-logo="https://i.ibb.co/jL0R0VQ/Golden-Multiplex2022.png" group-title="CINE",GOLDEN MULTIPLEX -2 HORAS Ultra HD+
+
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/V2Zxt45/GOLDENEDGE.png" group-title="CINE",GOLDEN EDGE HQ
+http://200.229.147.76:4000/play/a0k8
+
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/V2Zxt45/GOLDENEDGE.png" group-title="CINE",GOLDEN EDGE SD
+http://181.78.12.119:16123/play/ch47
+
+
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/V2Zxt45/GOLDENEDGE.png" group-title="CINE",GOLDEN EDGE
+http://dnsplay.xyz:80/live/jdmmxttl/9n8a3UpFc8/302657.m3u8
+
+
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE HD" tvg-logo="https://i.ibb.co/V2Zxt45/GOLDENEDGE.png" group-title="CINE",GOLDEN EDGE Ultra HD 4K
+http://tv.wolkplay.com:80/play/Vh0qoYDjTHN8JmMVWBiN8HfuGEgmwTMR27cpCBGwgTM/m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE Ultra HD+" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.949364663_GoldenEdgeLA(2020).png.94d8469a99940e01d3f48dba9cf25146.png" group-title="CINE",GOLDEN EDGE Ultra HD+
+http://live.budtvlight.com:25461/live/bud-798016/e677162434/37965.m3u8
+
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE Ultra HD+" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/small.949364663_GoldenEdgeLA(2020).png.94d8469a99940e01d3f48dba9cf25146.png" group-title="CINE",GOLDEN EDGE Ultra HDA+
+http://dnsplay.xyz:80/live/jdmmxttl/9n8a3UpFc8/302657.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw 
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE HD" tvg-logo="https://i.ibb.co/V2Zxt45/GOLDENEDGE.png" group-title="CINE",GOLDEN EDGE HD Dual Audio
+http://00322.xyz:8000/live/coachprato/40437757/150100.m3u8?v=https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/M99y1J0/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/187.m3u8
+
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus Full HD" tvg-logo="https://i.ibb.co/M99y1J0/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS HD
+https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/73.m3u8
+
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus Full HD" tvg-logo="https://i.ibb.co/M99y1J0/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS Ultra HD 4K
+http://dnslivetv.online:80/play/Mgcws_PUsu7hHd1wiPTureWHtt_sVqXtFP_mT1_D-oc/m3u8?v=http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS Ultra HD+" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="CINE",GOLDEN PLUS Ultra HD+
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/187.m3u8
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS Ultra HD+" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="CINE",GOLDEN PLUS Ultra HDA+
+http://dnslivetv.online:80/play/Mgcws_PUsu7hHd1wiPTurRl-HbV5D0Vbh1AYHHPCaBQ/m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus Full HD" tvg-logo="https://i.ibb.co/M99y1J0/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS Full HD Dual Audio
+http://00322.xyz:8000/live/coachprato/40437757/150101.m3u8?v=https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+
+
